@@ -7,9 +7,9 @@ import certifi
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TOKEN = '7020534774:AAFYHmLHrz9plmifsYp9QzB7g-JaIkkLGCw'
+TOKEN = '7291952960:AAF0s9gBMN7pfmha7cRoBsVF1ekgwq_7wHY'
 MONGO_URI = 'mongodb+srv://admin:kpR4ObsewTySq48I@test.zeqrmgb.mongodb.net/test_db?retryWrites=true&w=majority'
-CHANNEL_ID = -1002150195409
+CHANNEL_ID = -1002357335986
 ADMIN_IDS = [7094215368, 1234567890, 2345678901, 3456789012, 4567890123]
 
 
